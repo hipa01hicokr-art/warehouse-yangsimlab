@@ -1,0 +1,58 @@
+[
+ {
+  "title": "창고화재보험",
+  "slug": "warehouse-fire"
+ },
+ {
+  "title": "창고보험",
+  "slug": "warehouse-insurance"
+ },
+ {
+  "title": "창고패키지보험",
+  "slug": "warehouse-package"
+ },
+ {
+  "title": "도난보험",
+  "slug": "theft"
+ },
+ {
+  "title": "동산보험",
+  "slug": "movables"
+ },
+ {
+  "title": "재산종합보험",
+  "slug": "property-all-risk"
+ },
+ {
+  "title": "동산종합보험",
+  "slug": "inland-marine"
+ },
+ {
+  "title": "창고배상책임보험",
+  "slug": "warehouse-liability"
+ },
+ {
+  "title": "재고자산보험",
+  "slug": "inventory"
+ },
+ {
+  "title": "물류창고보험",
+  "slug": "logistics-warehouse-insurance"
+ },
+ {
+  "title": "물류센터화재보험",
+  "slug": "fulfillment-center-fire"
+ },
+ {
+  "title": "창고업자배상책임보험",
+  "slug": "warehouseman-liability"
+ },
+ {
+  "title": "물류창고화재보험",
+  "slug": "logistics-warehouse-fire"
+ },
+ {
+  "title": "창고화재보험료",
+  "slug": "premium"
+ }
+]

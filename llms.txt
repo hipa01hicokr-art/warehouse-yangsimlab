@@ -1,0 +1,66 @@
+# 양심보험연구소 창고화재보험 (warehouse.yangsimlab.com)
+
+> 양심보험연구소는 22년 경력의 화재보험 전문가 노영규가 운영하는 보험 상담 사이트로, 창고·물류창고를 위한 화재보험, 창고업자 배상책임보험, 도난·재산종합보험의 설계와 계약 후 관리, 사고 보상 지원을 제공합니다. 상담과 증권 검토는 비용 없이 진행하며, 보험료는 건물 구조·보관 품목·소방설비·재고와 수탁물 가입금액·배상 한도에 따라 개별 산정합니다. (2026년 9월 기준)
+
+## 전문가
+- [화재보험 전문가 노영규](https://warehouse.yangsimlab.com/about/): 손해보험 22년, 설계사 등록번호 20050776010016, 지에이코리아(주) 소속, 저서 『매출이 오르는 가게는 보험부터 다르다』, 월간 창업&프랜차이즈·THE E-STATION 칼럼 연재
+
+## 주요 페이지
+- [창고화재보험 홈](https://warehouse.yangsimlab.com/): 창고 맞춤 화재보험 설계, 상담 절차, 체크리스트, FAQ
+- [창고화재보험 칼럼](https://warehouse.yangsimlab.com/columns/): 키워드별 전문가 칼럼 모음
+- [지역별 창고화재보험](https://warehouse.yangsimlab.com/region/): 물류창고가 모인 지역별 특징과 화재 위험 안내
+
+## 칼럼
+- [창고화재보험](https://warehouse.yangsimlab.com/columns/warehouse-fire/): 창고화재보험, 건물·시설·보관물 세 목적물과 내 물건·맡은 물건에 따라 달라지는 구조를 표로 정리했습니다.
+- [창고보험](https://warehouse.yangsimlab.com/columns/warehouse-insurance/): 창고보험, 한 가지 상품이 아니라 화재·배상·도난·휴업·운송 위험을 묶는 조합입니다. 다섯 갈래 위험 지도로 빠진 보장을 확인해 보세요.
+- [창고패키지보험](https://warehouse.yangsimlab.com/columns/warehouse-package/): 창고패키지보험, 재산·배상·휴업을 한 증권에 묶는 구조와 잘 맞는 창고, 과할 수 있는 창고를 비교했습니다. 가입 전 확인 순서도 점검해 보세요.
+- [도난보험](https://warehouse.yangsimlab.com/columns/theft/): 도난보험, 창고 도난에서 외부 침입 흔적 요건과 종업원 관련 제외, CCTV·재고 기록의 역할을 문답으로 정리했습니다. 증권 도난 담보를 확인해 보세요.
+- [동산보험](https://warehouse.yangsimlab.com/columns/movables/): 동산보험, 동산의 뜻과 창고 안 지게차·랙·팔레트·포장설비·사무집기 목록, 건물 보험과의 경계를 문답으로 정리했습니다. 동산 목록을 점검해 보세요.
+- [재산종합보험](https://warehouse.yangsimlab.com/columns/property-all-risk/): 재산종합보험, 창고의 누수·침수·랙 붕괴·지붕 파손 같은 비화재 사고로 포괄 방식과 열거 방식의 차이를 설명했습니다. 면책 조항을 함께 점검해 보세요.
+- [동산종합보험](https://warehouse.yangsimlab.com/columns/inland-marine/): 동산종합보험, 물류·보관업에서 화물과 장비가 창고를 떠나 운송·외부 보관·현장 반출을 거쳐 돌아오기까지 구간별 점검법을 정리했습니다.
+- [창고배상책임보험](https://warehouse.yangsimlab.com/columns/warehouse-liability/): 창고배상책임보험, 방문 기사 부상과 옆 창고로 번진 불, 지게차 사고까지 시설·운영 배상과 수탁물 배상의 차이를 정리했습니다.
+- [재고자산보험](https://warehouse.yangsimlab.com/columns/inventory/): 재고자산보험, 유통·도매 창고의 월별 재고 변동과 가입금액 기준, 매달 재고를 신고하는 보고식, 사고 후 입증 자료를 정리했습니다.
+- [물류창고보험](https://warehouse.yangsimlab.com/columns/logistics-warehouse-insurance/): 물류창고보험, 3PL 사업자가 화주 물류계약서의 보험 조항과 가입 증명서, 보관·하역·포장 업무별 책임을 단계별로 확인하는 법을 정리했습니다. 계약서 검토를 요청하세요.
+- [물류센터화재보험](https://warehouse.yangsimlab.com/columns/fulfillment-center-fire/): 물류센터화재보험, 고층 랙과 컨베이어 설비, 창문 없는 넓은 공간, 샌드위치패널 같은 대형 물류센터의 구조 위험과 점검 목록을 정리했습니다.
+- [창고업자배상책임보험](https://warehouse.yangsimlab.com/columns/warehouseman-liability/): 창고업자배상책임보험, 상법 제160조의 창고업자 책임과 물류창고업 등록, 화주별 보관 조건에 맞춘 한도·요율 정하는 법을 정리했습니다.
+- [물류창고화재보험](https://warehouse.yangsimlab.com/columns/logistics-warehouse-fire/): 물류창고화재보험, 전기 설비·용접 공사·지게차 배터리 충전·냉동창고 단열재·적재물 등 화재 원인별로 보험에서 확인할 점을 표로 정리했습니다.
+- [창고화재보험료](https://warehouse.yangsimlab.com/columns/premium/): 창고화재보험료, 건물 급수·보관 품목·면적·소방설비·가입금액·배상 한도·사고 이력 등 보험료를 정하는 요인과 관리법을 정리했습니다.
+
+## 지역별 안내
+- [고양창고화재보험](https://warehouse.yangsimlab.com/region/goyang/): 원흥·삼송의 다층 도심 배송센터, 층별 임차와 신축 공사 위험까지 보는 고양 창고
+- [김포창고화재보험](https://warehouse.yangsimlab.com/region/gimpo/): 고촌물류단지에서 양촌·학운으로 넓어지는 라스트마일 거점, 창고 사이 번짐 위험이 큰 김포
+- [인천창고화재보험](https://warehouse.yangsimlab.com/region/incheon/): 항만·공항 수입화물과 보세창고, 초대형 풀필먼트가 3권역에 몰린 인천 창고의 화재 위험
+- [부천창고화재보험](https://warehouse.yangsimlab.com/region/bucheon/): 저온센터와 주류 도매 창고가 함께 있는 도심형 오정물류단지, 온도별로 달라지는 부천 창고의 위험
+- [시흥창고화재보험](https://warehouse.yangsimlab.com/region/siheung/): 시화산단 공장을 받쳐 주는 원자재·부품 창고, 소규모 임차 창고가 촘촘한 시흥 정왕동
+- [군포창고화재보험](https://warehouse.yangsimlab.com/region/gunpo/): 수도권 한가운데 약 70만㎡ 복합물류터미널, 택배 분류와 부지 임대 구조를 함께 봐야 하는 군포 창고
+- [의왕창고화재보험](https://warehouse.yangsimlab.com/region/uiwang/): 수도권 수출입 컨테이너의 약 80%를 다뤘던 의왕ICD, 컨테이너 조작장과 수출입 화물의 위험
+- [화성창고화재보험](https://warehouse.yangsimlab.com/region/hwaseong/): 동탄 집중에서 양감·장안으로 번지는 화성, 3PL·이커머스·패션 화물이 섞이는 창고
+- [용인창고화재보험](https://warehouse.yangsimlab.com/region/yongin/): 경기 대형 창고 20%가 있는 용인, 처인구 백암·양지에 몰린 상온 물류창고
+- [용인냉동창고화재보험](https://warehouse.yangsimlab.com/region/yongin-cold/): 수도권 저온물류 허브 남사읍, 단열재·냉동설비·온도 이탈을 함께 봐야 하는 냉동창고
+- [안성창고화재보험](https://warehouse.yangsimlab.com/region/anseong/): 3년 만에 물류센터 약 2배, 제조사 부품과 신기술 설비가 들어오는 안성 신흥 창고
+- [평택항창고화재보험](https://warehouse.yangsimlab.com/region/pyeongtaek-port/): 보세·냉동·해외직구 화물이 드나드는 평택항 배후단지, 통관 전 화물 책임이 핵심
+- [경기광주창고화재보험](https://warehouse.yangsimlab.com/region/gyeonggi-gwangju/): 물류센터 74%가 초월·도척·문형에 몰린 경기 광주, 이커머스 비중 높은 도시형 창고
+- [곤지암창고화재보험](https://warehouse.yangsimlab.com/region/gonjiam/): 곤지암IC를 중심으로 택배 허브와 상온 센터, 소형 임대창고가 함께 있는 권역
+- [이천창고화재보험](https://warehouse.yangsimlab.com/region/icheon/): 누적 공급 약 158만 평, 3PL이 절반을 넘고 대형 화재 이력이 가장 많은 수도권 물류 교차점
+- [여주창고화재보험](https://warehouse.yangsimlab.com/region/yeoju/): 최근 4년 공급이 약 3배, 양귀지구 대형 센터와 3PL·패션 수요가 모이는 가남읍
+- [음성창고화재보험](https://warehouse.yangsimlab.com/region/eumseong/): 감곡IC 주변에 대형 창고 허가가 몰리고, 산단 공장 물량을 받는 충북 음성의 물류 거점
+- [천안창고화재보험](https://warehouse.yangsimlab.com/region/cheonan/): 대형 의류 물류센터와 중소 물류기업용 공동물류센터가 함께 있는 경부축 충청 물류 핵심
+- [칠곡창고화재보험](https://warehouse.yangsimlab.com/region/chilgok/): 영남복합물류기지와 칠곡물류IC를 품은 왜관, 대구·경북 물류센터의 중심축
+- [부산신항창고화재보험](https://warehouse.yangsimlab.com/region/busan-newport/): 북컨·서컨 배후단지와 녹산·미음·생곡 국제산업물류도시에 모인 수출입 물류창고
+- [부산냉동창고화재보험](https://warehouse.yangsimlab.com/region/busan-cold/): 감천·장림·남부민동에 모인 수산물 냉동창고, 단열재와 냉매 설비가 핵심 위험
+- [김해창고화재보험](https://warehouse.yangsimlab.com/region/gimhae/): 부산 대체 입지로 떠오른 김해, 상동·주촌 4만 평급 센터와 산단 물류가 늘어나는 곳
+
+## 상담
+- 전화: 010-8284-6593
+- 카카오채널: https://pf.kakao.com/_xcxdyWxd
+- 유튜브: https://www.youtube.com/@yangsimbohum
+- 사무실: 서울 강남구 테헤란로25길 20 역삼현대벤처텔 1406호 / 경기 고양시 일산동구 호수로 646-24 노블소호비즈 22호
+
+## 안내
+- 보험 가입 가능 여부와 보장 내용은 보험사 인수 기준과 약관, 창고 현황에 따라 달라질 수 있습니다.
+- 보험대리점 지에이코리아(주) 대리점 등록번호 2009098136
+
+## 사이트맵
+- https://warehouse.yangsimlab.com/sitemap.xml
+- https://warehouse.yangsimlab.com/rss.xml
+- https://warehouse.yangsimlab.com/llms-full.txt: 모든 페이지 본문 전문
