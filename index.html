@@ -740,14 +740,21 @@ a,button,summary{-webkit-tap-highlight-color:transparent}
   Array.prototype.slice.call(s.children).forEach(function(f){var c=f.cloneNode(true);c.setAttribute('aria-hidden','true');c.querySelector('img').alt='';s.appendChild(c)});
 })();(function(){
   var b=document.querySelector('.yt-lite'); if(!b)return;
-  b.addEventListener('click',function(){
+  // 화면에 보이면 소리 없이 자동 재생(브라우저 규칙상 자동 재생은 무음만 허용), 직접 누르면 소리와 함께 재생
+  function load(auto){
+    if(!b.isConnected)return;
     var f=document.createElement('iframe');
-    f.src='https://www.youtube-nocookie.com/embed/'+b.dataset.id+'?start='+b.dataset.start+'&end='+b.dataset.end+'&autoplay=1&rel=0&playsinline=1';
+    f.src='https://www.youtube-nocookie.com/embed/'+b.dataset.id+'?start='+b.dataset.start+'&end='+b.dataset.end+'&autoplay=1&rel=0&playsinline=1'+(auto?'&mute=1':'');
     f.title='노영규 대표 소개 영상';
     f.allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share';
     f.allowFullscreen=true;
     b.replaceWith(f);
-  });
+  }
+  b.addEventListener('click',function(){load(false)});
+  if('IntersectionObserver' in window&&!matchMedia('(prefers-reduced-motion: reduce)').matches){
+    var io=new IntersectionObserver(function(es){es.forEach(function(e){if(e.isIntersecting){io.disconnect();load(true)}})},{threshold:0.6});
+    io.observe(b);
+  }
 })();</script>
 </body>
 </html>
