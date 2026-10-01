@@ -73,3 +73,5 @@
 - 병원화재보험: https://hospital.yangsimlab.com/ (llms.txt: https://hospital.yangsimlab.com/llms.txt)
 - 기업보험: https://corporate.yangsimlab.com/ (llms.txt: https://corporate.yangsimlab.com/llms.txt)
 - 상가화재보험: https://store.yangsimlab.com/ (llms.txt: https://store.yangsimlab.com/llms.txt)
+- 양심보험연구소 브랜드 소개: http://yangsimbohum.com/
+- 네이버 블로그: https://blog.naver.com/hipa01 · https://blog.naver.com/fireconsultant (상가·자영업) · https://blog.naver.com/firedoc (기업·공장)
