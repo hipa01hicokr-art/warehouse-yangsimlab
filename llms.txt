@@ -26,6 +26,8 @@
 - [물류창고화재보험](https://warehouse.yangsimlab.com/columns/logistics-warehouse-fire/): 물류창고화재보험, 전기 설비·용접 공사·지게차 배터리 충전·냉동창고 단열재·적재물 등 화재 원인별로 보험에서 확인할 점을 표로 정리했습니다.
 - [창고화재보험료](https://warehouse.yangsimlab.com/columns/premium/): 창고화재보험료, 건물 급수·보관 품목·면적·소방설비·가입금액·배상 한도·사고 이력 등 보험료를 정하는 요인과 관리법을 정리했습니다.
 - [창고화재보험과 창고업자배상책임보험 차이](https://warehouse.yangsimlab.com/columns/warehouse-fire-vs-warehouseman/): 창고화재보험과 창고업자배상책임보험 차이, 내 재고 손해와 화주 화물 배상을 자가창고·영업창고와 보관 계약 기준으로 비교했습니다.
+- [자가창고와 영업창고 화재보험 차이](https://warehouse.yangsimlab.com/columns/own-vs-commercial-warehouse/): 자가창고와 영업창고 화재보험 차이, 내 재고가 목적물인 창고와 화주 화물을 맡는 창고의 가입금액·배상책임 구성을 비교했습니다. 우리 창고 구성을 점검해 보세요.
+- [적재물배상책임과 창고업자배상책임 차이](https://warehouse.yangsimlab.com/columns/cargo-vs-warehouseman-liability/): 적재물배상책임과 창고업자배상책임 차이, 운송 중 화물과 보관 중 화물의 책임을 법적 근거·가입 주체·한도 기준으로 비교했습니다.
 
 ## 지역별 안내
 - [고양창고화재보험](https://warehouse.yangsimlab.com/region/goyang/): 원흥·삼송의 다층 도심 배송센터, 층별 임차와 신축 공사 위험까지 보는 고양 창고
