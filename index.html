@@ -790,7 +790,7 @@ a,button,summary{-webkit-tap-highlight-color:transparent}
   var v=document.querySelector('.hero-video'),t=document.querySelector('.vid-toggle');
   if(!v)return;
   var small=window.matchMedia('(max-width:960px)').matches;
-  v.src=small?v.dataset.srcSm:v.dataset.srcLg;
+  if(small||(navigator.connection&&navigator.connection.saveData)){v.removeAttribute('autoplay');v.removeAttribute('preload');t.style.display='none';return}v.src=v.dataset.srcLg;
   var reduce=window.matchMedia('(prefers-reduced-motion:reduce)').matches;
   function setBtn(p){t.innerHTML='<i class="ph '+(p?'ph-play':'ph-pause')+'"></i>';t.setAttribute('aria-label',p?'영상 재생':'영상 일시정지')}
   if(reduce){v.removeAttribute('autoplay');v.pause();setBtn(true)}
