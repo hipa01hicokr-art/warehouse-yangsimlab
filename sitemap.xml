@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
-  <url><loc>https://warehouse.yangsimlab.com/</loc><lastmod>2026-10-25</lastmod>
+  <url><loc>https://warehouse.yangsimlab.com/</loc><lastmod>2026-10-29</lastmod>
     <image:image><image:loc>https://warehouse.yangsimlab.com/assets/og/home.jpg</image:loc></image:image>
     <image:image><image:loc>https://warehouse.yangsimlab.com/assets/trust/home-1.jpg</image:loc></image:image>
     <image:image><image:loc>https://warehouse.yangsimlab.com/assets/trust/home-2.jpg</image:loc></image:image>
     <image:image><image:loc>https://warehouse.yangsimlab.com/assets/trust/home-3.jpg</image:loc></image:image>
     <image:image><image:loc>https://warehouse.yangsimlab.com/assets/trust/home-4.jpg</image:loc></image:image>
     <image:image><image:loc>https://warehouse.yangsimlab.com/assets/trust/home-5.jpg</image:loc></image:image></url>
-  <url><loc>https://warehouse.yangsimlab.com/columns/</loc><lastmod>2026-10-21</lastmod>
+  <url><loc>https://warehouse.yangsimlab.com/columns/</loc><lastmod>2026-10-29</lastmod>
     <image:image><image:loc>https://warehouse.yangsimlab.com/assets/og/columns.jpg</image:loc></image:image>
     <image:image><image:loc>https://warehouse.yangsimlab.com/assets/img/trust-mgf.jpg</image:loc></image:image>
     <image:image><image:loc>https://warehouse.yangsimlab.com/assets/img/trust-book.jpg</image:loc></image:image>
@@ -133,6 +133,13 @@
     <image:image><image:loc>https://warehouse.yangsimlab.com/assets/trust/columns-cargo-vs-warehouseman-liability-3.jpg</image:loc></image:image>
     <image:image><image:loc>https://warehouse.yangsimlab.com/assets/trust/columns-cargo-vs-warehouseman-liability-4.jpg</image:loc></image:image>
     <image:image><image:loc>https://warehouse.yangsimlab.com/assets/trust/columns-cargo-vs-warehouseman-liability-5.jpg</image:loc></image:image></url>
+  <url><loc>https://warehouse.yangsimlab.com/columns/cold-storage-fire/</loc><lastmod>2026-10-29</lastmod>
+    <image:image><image:loc>https://warehouse.yangsimlab.com/assets/og/col-cold-storage-fire.jpg</image:loc></image:image>
+    <image:image><image:loc>https://warehouse.yangsimlab.com/assets/trust/columns-cold-storage-fire-1.jpg</image:loc></image:image>
+    <image:image><image:loc>https://warehouse.yangsimlab.com/assets/trust/columns-cold-storage-fire-2.jpg</image:loc></image:image>
+    <image:image><image:loc>https://warehouse.yangsimlab.com/assets/trust/columns-cold-storage-fire-3.jpg</image:loc></image:image>
+    <image:image><image:loc>https://warehouse.yangsimlab.com/assets/trust/columns-cold-storage-fire-4.jpg</image:loc></image:image>
+    <image:image><image:loc>https://warehouse.yangsimlab.com/assets/trust/columns-cold-storage-fire-5.jpg</image:loc></image:image></url>
   <url><loc>https://warehouse.yangsimlab.com/region/</loc><lastmod>2026-10-14</lastmod>
     <image:image><image:loc>https://warehouse.yangsimlab.com/assets/og/region.jpg</image:loc></image:image>
     <image:image><image:loc>https://warehouse.yangsimlab.com/assets/img/trust-mgf.jpg</image:loc></image:image>
@@ -294,6 +301,6 @@
     <image:image><image:loc>https://warehouse.yangsimlab.com/assets/trust/region-gimhae-3.jpg</image:loc></image:image>
     <image:image><image:loc>https://warehouse.yangsimlab.com/assets/trust/region-gimhae-4.jpg</image:loc></image:image>
     <image:image><image:loc>https://warehouse.yangsimlab.com/assets/trust/region-gimhae-5.jpg</image:loc></image:image></url>
-  <url><loc>https://warehouse.yangsimlab.com/about/</loc><lastmod>2026-10-25</lastmod>
+  <url><loc>https://warehouse.yangsimlab.com/about/</loc><lastmod>2026-10-29</lastmod>
     <image:image><image:loc>https://warehouse.yangsimlab.com/assets/og/about.jpg</image:loc></image:image></url>
 </urlset>
