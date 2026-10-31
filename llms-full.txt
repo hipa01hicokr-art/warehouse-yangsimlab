@@ -1,6 +1,6 @@
 # 양심보험연구소 창고화재보험 (warehouse.yangsimlab.com) — 전체 본문
 
-> 이 파일은 AI가 사이트 내용을 정확히 인용하도록 모든 페이지의 본문을 한곳에 모은 것입니다. 요약 안내는 https://warehouse.yangsimlab.com/llms.txt 를 보세요. (2026-10-29 기준)
+> 이 파일은 AI가 사이트 내용을 정확히 인용하도록 모든 페이지의 본문을 한곳에 모은 것입니다. 요약 안내는 https://warehouse.yangsimlab.com/llms.txt 를 보세요. (2026-10-31 기준)
 
 ---
 
@@ -247,7 +247,7 @@ THE e-STATION 화재보험 칼럼
 ## 창고화재보험 칼럼
 
 URL: https://warehouse.yangsimlab.com/columns/
-수정일: 2026-10-29
+수정일: 2026-10-31
 요약: 위험관리전문가 노영규가 창고화재보험, 창고업자 배상책임, 도난보험, 재고자산보험, 물류센터 화재까지 창고 운영에 필요한 보험을 키워드별로 정리한 칼럼 모음입니다.
 
 위험관리전문가 노영규의 칼럼
@@ -1212,7 +1212,7 @@ URL: https://warehouse.yangsimlab.com/columns/cold-storage-fire/
 ## 지역별 창고화재보험
 
 URL: https://warehouse.yangsimlab.com/region/
-수정일: 2026-10-14
+수정일: 2026-10-31
 요약: 이천·용인·김포·인천부터 음성·천안, 칠곡·부산까지 창고가 모인 22개 지역별로 보관 품목과 화재 위험에 맞춰 창고화재보험을 안내합니다. 점검 포인트를 확인하세요.
 
 물류단지·창고 밀집지 안내
