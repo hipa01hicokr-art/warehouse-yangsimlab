@@ -70,5 +70,13 @@
  {
   "title": "냉동창고 화재보험",
   "slug": "cold-storage-fire"
+ },
+ {
+  "title": "적재물보험",
+  "slug": "cargo-liability"
+ },
+ {
+  "title": "창고화재보험가입",
+  "slug": "warehouse-fire-enrollment"
  }
 ]
