@@ -86,5 +86,13 @@
  {
   "title": "창고재산종합보험",
   "slug": "warehouse-property-all-risk"
+ },
+ {
+  "title": "적하보험",
+  "slug": "cargo-insurance"
+ },
+ {
+  "title": "화물운송보험",
+  "slug": "freight-transit-insurance"
  }
 ]
