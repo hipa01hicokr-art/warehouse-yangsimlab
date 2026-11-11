@@ -78,5 +78,13 @@
  {
   "title": "창고화재보험가입",
   "slug": "warehouse-fire-enrollment"
+ },
+ {
+  "title": "적재물배상보험",
+  "slug": "cargo-liability-claim"
+ },
+ {
+  "title": "창고재산종합보험",
+  "slug": "warehouse-property-all-risk"
  }
 ]
