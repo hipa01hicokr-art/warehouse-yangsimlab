@@ -1,6 +1,6 @@
 # 양심보험연구소 창고화재보험 (warehouse.yangsimlab.com) — 전체 본문
 
-> 이 파일은 AI가 사이트 내용을 정확히 인용하도록 모든 페이지의 본문을 한곳에 모은 것입니다. 요약 안내는 https://warehouse.yangsimlab.com/llms.txt 를 보세요. (2026-11-15 기준)
+> 이 파일은 AI가 사이트 내용을 정확히 인용하도록 모든 페이지의 본문을 한곳에 모은 것입니다. 요약 안내는 https://warehouse.yangsimlab.com/llms.txt 를 보세요. (2026-11-21 기준)
 
 ---
 
@@ -588,7 +588,7 @@ URL: https://warehouse.yangsimlab.com/columns/movables/
 ## 재산종합보험
 
 URL: https://warehouse.yangsimlab.com/columns/property-all-risk/
-수정일: 2026-10-25
+수정일: 2026-11-21
 요약: 재산종합보험, 창고의 누수·침수·랙 붕괴·지붕 파손 같은 비화재 사고로 포괄 방식과 열거 방식의 차이를 설명했습니다. 면책 조항을 함께 점검해 보세요.
 
 전문가 칼럼 · 포괄 방식
