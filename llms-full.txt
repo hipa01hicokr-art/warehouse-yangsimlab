@@ -432,7 +432,7 @@ URL: https://warehouse.yangsimlab.com/columns/warehouse-insurance/
 ## 창고패키지보험
 
 URL: https://warehouse.yangsimlab.com/columns/warehouse-package/
-수정일: 2026-10-25
+수정일: 2026-11-23
 요약: 창고패키지보험, 재산·배상·휴업을 한 증권에 묶는 구조와 잘 맞는 창고, 과할 수 있는 창고를 비교했습니다. 가입 전 확인 순서도 점검해 보세요.
 
 전문가 칼럼 · 패키지
@@ -492,7 +492,7 @@ URL: https://warehouse.yangsimlab.com/columns/warehouse-package/
 ## 도난보험
 
 URL: https://warehouse.yangsimlab.com/columns/theft/
-수정일: 2026-10-25
+수정일: 2026-11-23
 요약: 도난보험, 창고 도난에서 외부 침입 흔적 요건과 종업원 관련 제외, CCTV·재고 기록의 역할을 문답으로 정리했습니다. 증권 도난 담보를 확인해 보세요.
 
 전문가 칼럼 · 도난
@@ -641,7 +641,7 @@ URL: https://warehouse.yangsimlab.com/columns/property-all-risk/
 ## 동산종합보험
 
 URL: https://warehouse.yangsimlab.com/columns/inland-marine/
-수정일: 2026-10-25
+수정일: 2026-11-23
 요약: 동산종합보험, 물류·보관업에서 화물과 장비가 창고를 떠나 운송·외부 보관·현장 반출을 거쳐 돌아오기까지 구간별 점검법을 정리했습니다. 상담해 보세요.
 
 전문가 칼럼 · 이동 재산
@@ -738,7 +738,7 @@ URL: https://warehouse.yangsimlab.com/columns/warehouse-liability/
 ## 재고자산보험
 
 URL: https://warehouse.yangsimlab.com/columns/inventory/
-수정일: 2026-10-25
+수정일: 2026-11-23
 요약: 재고자산보험, 유통·도매 창고의 월별 재고 변동과 가입금액 기준, 매달 재고를 신고하는 보고식, 사고 후 입증 자료를 정리했습니다. 재고 기준 상담을 받아보세요.
 
 전문가 칼럼 · 재고
@@ -839,7 +839,7 @@ URL: https://warehouse.yangsimlab.com/columns/logistics-warehouse-insurance/
 ## 물류센터화재보험
 
 URL: https://warehouse.yangsimlab.com/columns/fulfillment-center-fire/
-수정일: 2026-10-25
+수정일: 2026-11-23
 요약: 물류센터화재보험, 고층 랙과 컨베이어 설비, 창문 없는 넓은 공간, 샌드위치패널 같은 대형 물류센터의 구조 위험과 점검 목록을 정리했습니다. 도면 기반 상담을 받아보세요.
 
 전문가 칼럼 · 대형 물류센터
@@ -1190,7 +1190,7 @@ URL: https://warehouse.yangsimlab.com/columns/cargo-vs-warehouseman-liability/
 ## 냉동창고 화재보험
 
 URL: https://warehouse.yangsimlab.com/columns/cold-storage-fire/
-수정일: 2026-10-29
+수정일: 2026-11-23
 요약: 냉동창고 화재보험, 단열 패널 화재 위험과 냉동기·온도 변화 손해, 화주 화물 배상까지 일반 창고와 비교해 정리했습니다. 우리 창고 증권을 점검해 보세요.
 
 전문가 칼럼 · 냉동·냉장
